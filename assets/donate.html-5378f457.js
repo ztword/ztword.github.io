@@ -1,0 +1,2 @@
+import{_ as t,o as n,c as s,b as e}from"./app-879f217a.js";const o={},a=e("div",{class:"language-text line-numbers-mode","data-ext":"text"},[e("pre",{class:"language-text"},[e("code",null,`thank you anyone
+`)]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("div",{class:"line-number"})])],-1),l=e("blockquote",null,[e("p",null,"等我放二维码再来")],-1),c=e("p",null,"::: 提醒 这里是tip容器 :::",-1),_=[a,l,c];function d(i,r){return n(),s("div",null,_)}const m=t(o,[["render",d],["__file","donate.html.vue"]]);export{m as default};

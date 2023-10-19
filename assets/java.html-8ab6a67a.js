@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,b as s}from"./app-879f217a.js";const c={},o=s("p",null,"This is Java.",-1),_=[o];function n(r,l){return t(),a("div",null,_)}const d=e(c,[["render",n],["__file","java.html.vue"]]);export{d as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-105b8582","path":"/docs/theme-reco/maven.html","title":"Maven","lang":"en-US","frontmatter":{"title":"Maven","date":"2020/05/29"},"headers":[],"git":{},"filePathRelative":"docs/theme-reco/maven.md"}');export{e as data};

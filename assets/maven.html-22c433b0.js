@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as n,b as s}from"./app-879f217a.js";const c={},o=s("p",null,"This is Maven.",-1),_=[o];function a(r,l){return t(),n("div",null,_)}const m=e(c,[["render",a],["__file","maven.html.vue"]]);export{m as default};

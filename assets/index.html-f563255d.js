@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-74bc627b","path":"/about/","title":"SHOW TIME👋","lang":"en-US","frontmatter":{"title":"SHOW TIME👋","date":"2023/10/01","categories":["zhangt"]},"headers":[{"level":2,"title":"你好 世界 👋","slug":"你好-世界-👋","link":"#你好-世界-👋","children":[]}],"git":{},"filePathRelative":"about/README.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2aec03fe","path":"/docs/theme-reco/kdxf.html","title":"科大讯飞，又一个王炸级更新！","lang":"en-US","frontmatter":{"title":"科大讯飞，又一个王炸级更新！","date":"2023/10/19"},"headers":[],"git":{},"filePathRelative":"docs/theme-reco/kdxf.md"}');export{e as data};

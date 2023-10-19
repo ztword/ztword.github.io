@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t,b as c}from"./app-879f217a.js";const o={},_=c("p",null,"This is plugin.",-1),n=[_];function l(r,a){return s(),t("div",null,n)}const m=e(o,[["render",l],["__file","mysql.html.vue"]]);export{m as default};
